@@ -23,5 +23,6 @@ The data used in this analysis includes the following;
  - Attrition by Education Field: This gives insights into how education background impacts attrition.
 
 ### ANALYSIS OVERVIEW
+1. OVERALL EMPLOYEE AND ATTRITION COUNT: There are 1470 employee, 237 have left resulting in attrition rate 16%. A 16% attrition rate can be 
 
 
