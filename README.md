@@ -23,6 +23,15 @@ The data used in this analysis includes the following;
  - Attrition by Education Field: This gives insights into how education background impacts attrition.
 
 ### ANALYSIS OVERVIEW
-1. OVERALL EMPLOYEE AND ATTRITION COUNT: There are 1470 employee, 237 have left resulting in attrition rate 16%. A 16% attrition rate can be 
+1. OVERALL EMPLOYEE AND ATTRITION COUNT: There are 1470 employee, 237 have left resulting in attrition rate of 16%. A 16% attrition rate can be costly due to the expenses associated with recruiting, training and onboarding new employees. This rate suggests that the company may need to focus on improving employee retention strategies, particularly for key roles and high turn over departments. Retention programs such as;
+- Conduct Exist Interview: Feedbacks from departing employees from R&D and Sales department needs to be gathered in order to identify specific reasons for leaving.
+- Implement Flexible Work Options: Offering flexible schedules, remote work could help employee maintain a better work-life balance. As Sales roles can be demanding, and R&D required focus.
+- Improve Compensation and Incentives: Performance based incentives, commision adjustments and project completion bonuses can be considered.
+2. ATTRITION BY EDUCATION FIELD: Employee from various educational field such as Life Sciences, Human Resource, Medical, Technical degree and Marketing have different attrition rates. Human Resource appears to have the highest attrition, follow by Technical degrees And Marketing. Losing employees with specific educational backgrounds could affect roles requring specialized knowledge, making it difficult to maintain expertise in those areas. Retaing talents in these areas might become a strategic priority. This could involve creating tailored development are engagement programs for these employees to reduce turnover.
+3. ATTRITION BY GENDER: The gender breakdown shows a higher attrition among males compared to females. The higher attrition rate among male employees may indicate that company policies might not be meeting their expectations. The company may:-
+  - Develop initiative that foster inclusivity and address the unique needs of both male and female employees.
+  - Many young male employees may be considering family responsibilities. Providing parental leave, family support services, or flexible hours for family time could make a big difference.
+  - Promote gender diversity in leadership roles to create a more inclusive work environment where both genders see paths to career advancement.
+4. ATTRITION BY AGE:
 
 
