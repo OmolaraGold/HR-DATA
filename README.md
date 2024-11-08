@@ -36,8 +36,11 @@ The data used in this analysis includes the following;
 High turnover among younger employees may indicate issues with career development, mentorship, or work-life balance expectations. Addressing these areas through training, career progression opportunities, and mentorship programs might improve retention.
 
 ### VISUALIZATION
+Below is HR data visualization
 
+![HR DATA VISUAL 1](https://github.com/user-attachments/assets/377b85a0-db20-4e65-adc7-92f59419006e)
 
+![HR DATA VISUAL 2](https://github.com/user-attachments/assets/6c28cdac-cf03-4df7-8467-bba4605763fe)
 
 
 
