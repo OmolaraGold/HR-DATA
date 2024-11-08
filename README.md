@@ -32,6 +32,12 @@ The data used in this analysis includes the following;
   - Develop initiative that foster inclusivity and address the unique needs of both male and female employees.
   - Many young male employees may be considering family responsibilities. Providing parental leave, family support services, or flexible hours for family time could make a big difference.
   - Promote gender diversity in leadership roles to create a more inclusive work environment where both genders see paths to career advancement.
-4. ATTRITION BY AGE:
+4. ATTRITION BY AGE: Young employees especially under 25 years of age and 25-34 age range have higher attrition rates. This suggest that the company may be struggling to retain early career talents. This trend could lead to a loss of future leadership potential, as these younger employees might have developed into senior roles if retained.
+High turnover among younger employees may indicate issues with career development, mentorship, or work-life balance expectations. Addressing these areas through training, career progression opportunities, and mentorship programs might improve retention.
+
+### VISUALIZATION
+
+
+
 
 
